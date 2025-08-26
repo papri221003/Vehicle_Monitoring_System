@@ -29,7 +29,7 @@ A real-time **vehicle monitoring and safety system** using **GPS**, **GSM**, **G
 | Hardware Components | Software Tools                      |
 |-------------------- |-----------------------------------  |
 | Arduino/ESP32       | Arduino IDE                         |
-| GPS Module (NEO-6M) | C/C++                               |
+| GPS Module(L89)     | C/C++                               |
 | GSM Module (SIM800L)| MySQL (optional for cloud storage)  |
 | MQ Gas Sensor       | ThingSpeak / Blynk (optional IoT)   |
 | Ultrasonic Sensor   |                                     |
