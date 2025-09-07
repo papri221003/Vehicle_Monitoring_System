@@ -77,5 +77,9 @@ This project aims to **bridge this gap** by creating a **low-cost, efficient, an
 
 ---
 
-## 📂 Project Structure
+## 🎯 Future Enhancements
+- Integrate with a **mobile app** for real-time vehicle tracking.
+- Store vehicle data on a **cloud database** for historical analytics.
+- Add **voice call alerts** during severe accidents.
+- Use **LoRaWAN** or **NB-IoT** for low-power, long-range connectivity.
 
