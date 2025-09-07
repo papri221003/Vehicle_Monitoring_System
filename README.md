@@ -8,7 +8,7 @@ This system detects accidents, gas leaks, and obstacles around the vehicle and s
 ## 📝 Problem Statement
 
 Road accidents and vehicle-related emergencies are among the leading causes of fatalities worldwide. In many cases, the delay in receiving help is due to the **lack of a real-time alert mechanism**.  
-Traditional vehicle tracking systems only provide **location data** but fail to address **accidents, gas leaks, and obstacle detection** in real-time.
+Traditional vehicle tracking systems only provide **location data** but fail to address **accidents, gas leaks, and obstacle detection** in real-time. Specially in mountain areas it is difficult to track where the accident occured...so it gettng late for the rescue operation to take place.
 
 This project aims to **bridge this gap** by creating a **low-cost, efficient, and reliable solution** that:
 - Continuously monitors vehicle status.
