@@ -35,5 +35,5 @@ A real-time **vehicle monitoring and safety system** using **GPS**, **GSM**, **G
 | Ultrasonic Sensor   |                                     |
 | Accelerometer       |                                     |
 
----
+
 
