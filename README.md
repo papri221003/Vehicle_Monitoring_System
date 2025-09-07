@@ -84,4 +84,4 @@ This project aims to **bridge this gap** by creating a **low-cost, efficient, an
 - Use **LoRaWAN** or **NB-IoT** for low-power, long-range connectivity.
 
 - 0000
-
+0000
